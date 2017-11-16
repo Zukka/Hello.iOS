@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C809A7D1-F6C5-4783-BC86-74002CB7E98E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_iOS/Info.plist">
+    <Files>
+      <File FileName="Phoneword_iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Phoneword_iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword__iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.567434F8-0DFC-4E53-93F7-B53EADAF244E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Phoneword__iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
